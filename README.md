@@ -27,8 +27,13 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 <ul>
   <li>Iniciar: inicia el temporizador (cuenta regresiva del tiempo hacia atrás)</li>
   <li>Pausar: pausa el temporizador para que puedas realizar actividades no relacionadas con programar</li>
-  <li>Detener: detiene el temporizador, si la ventana se cierra, cuando se vuelve a ejecutar el programa, el inicio será desde el momento que se detuvo, por lo que se seguiran computando las horas que se debe cumplir</li>
+  <li>Detener: detiene el temporizador, si la ventana se cierra, cuando se vuelve a ejecutar el programa, el inicio será desde el momento que se detuvo, por lo que se seguiran computando las horas que se debe cumplir, si el programa esta en la computadora y esta se apaga, de todas maneras iniciara en el tiempo que se detuvo, el modo portable funciona del mismo modo</li>
+<p align="center">
+  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/e002e8ff-29ba-4b5f-ad6b-99e5f21c23ad" alt="boton detener" width="40%">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="boton detener" width="40%">
+</p>
 </ul>
+
 
 <h2>Funcion documentar</h2>
 <ul>
