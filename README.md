@@ -19,7 +19,7 @@ Fue hecho un ejecutable portable (llevarlo en un pendrive de manera presencial a
   <li>Si se pausa solo se documentará cuando se inicia nuevamente y luego volverá a hacerlo por intervalos</li>
   <li>Cuando se detiene, también documenta cuando se da incio al temporizador y vuelve a cumplir la función de intervalos</li>
 </ul>
-<h2>Planilla de documentación</h>
+<h2>Planilla de documentación</h2>
 Cuando se realiza el guardado de la documentación y/o escritura, una ventana emergente previa al alerta de "guardado exitoso" pregunta si esta en modo presencial o remoto. 
 Una vez realizado el guardado, si es la primera vez que se inicia el temporizador en el día, creara un excel que tendrá como nombre la FECHA. Si se pausa o detiene, o simplemente se vuelve a iniciar por mero error, y el excel del día ya se creó, solo seguirá actualizando las filas de la planilla de ese día.<br>
 El excel tiene 3 columnas, la primera que guarda la fecha y la hora, la segunda tiene el modo de trabajo que puede ser "presencial" o "remoto" y la tercera guarda la descripción de lo que ingreso en la ventana documentar.
