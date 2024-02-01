@@ -17,8 +17,10 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 
 <p align="center">
   <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/ffed3c34-9cf4-4ada-b36a-c933857e1744" alt="ventana de documentacion" width="40%">
+  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/0d13d140-5d3a-4b63-8fc3-a20467441fc7" alt="ventana para elegir el modo" width="40%">
   <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/4bb443d2-2cea-4b45-87ae-b6d1903d27d2" alt="alerta de guardado exitoso" width="40%">
 </p>
+
 
 <h2>Funciones de los botones</h2>
 <ul>
