@@ -71,10 +71,8 @@ El excel tiene 3 columnas, la primera que guarda la fecha y la hora, la segunda 
 <br><br>
 
 <div align="center">
- <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/014d732f-c81c-4c78-9f78-8e6ae2e57689" alt="columnas excel" width="50%">
     <p style="text-align: center;"><em>Vista de como se arma el excel automáticamente</em></p>
- </div>
 </div>
 
 
