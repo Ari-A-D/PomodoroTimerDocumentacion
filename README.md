@@ -1,9 +1,8 @@
 <h1>My Timer - POMODORO</h1>
-
-
+<br>
 <div align="center">
  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/fd526be7-fcb5-4ea7-ab9c-253f80746c1d" alt="Vista principal POMODORO" width="30%">
- <p style="text-align: center; font-style: italic;">Vista principal del programa</p>
+ <p style="text-align: center;"><em>Vista principal del programa</em></p>
 </div>
 
 
