@@ -45,12 +45,12 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 
 <div align="center">
  <div>
-    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/e002e8ff-29ba-4b5f-ad6b-99e5f21c23ad" alt="ventana funcion boton detener" width="30%">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/e002e8ff-29ba-4b5f-ad6b-99e5f21c23ad" alt="ventana funcion boton detener" width="50%">
     <p style="text-align: center;"><em>Apretar boton detener y cerrar</em></p>
  </div>
  <br> <br>
  <div>
-    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="abrir nuevamente programa" width="30.3%">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="abrir nuevamente programa" width="50.3%">
     <p style="text-align: center;"><em>Volver a abrir para inciar el trabajo</em></p>
  </div>
 </div>
