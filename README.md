@@ -19,17 +19,17 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 <p>Fue hecho un ejecutable portable (llevarlo en un pendrive de manera presencial al lugar de trabajo) con el fin de que el tiempo transcurrido fuera innamobible para realmente utilizar las horas correspondientes, una vez terminado el tiempo programado se reiniciara, por lo que se pueden crear varios ejecutables para varias tareas, fue creado con la idea de que lo utilice el empleador y solo el mismo lo controle.</p>  
 <br><br>
 <div align="center">
- <div style="display: inline-block;;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/ffed3c34-9cf4-4ada-b36a-c933857e1744" alt="ventana de documentacion" width="40%">
     <p style="text-align: center;"><em>Ventana para guardar lo escrito</em></p>
  </div>
  <br> <br>
- <div style="display: inline-block;;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/0d13d140-5d3a-4b63-8fc3-a20467441fc7" alt="ventana para elegir el modo" width="20%">
     <p style="text-align: center;"><em>Ventana para elegir el modo de trabajo</em></p>
  </div>
  <br> <br>
- <div style="display: inline-block;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/4bb443d2-2cea-4b45-87ae-b6d1903d27d2" alt="alerta de guardado exitoso" width="15%">
     <p style="text-align: center;"><em>Alerta de guardado exitoso</em></p>
  </div>
@@ -44,12 +44,12 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
   <li>Detener: detiene el temporizador, si la ventana se cierra, cuando se vuelve a ejecutar el programa, el inicio será desde el momento que se detuvo, por lo que se seguiran computando las horas que se debe cumplir, si el programa esta en la computadora y esta se apaga, de todas maneras iniciara en el tiempo que se detuvo, el modo portable funciona del mismo modo</li><br><br>
 
 <div align="center">
- <div style="display: inline-block;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/e002e8ff-29ba-4b5f-ad6b-99e5f21c23ad" alt="ventana funcion boton detener" width="30%">
     <p style="text-align: center;"><em>Apretar boton detener y cerrar</em></p>
  </div>
  <br> <br>
- <div style="display: inline-block;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="abrir nuevamente programa" width="30.3%">
     <p style="text-align: center;"><em>Volver a abrir para inciar el trabajo</em></p>
  </div>
@@ -71,7 +71,7 @@ El excel tiene 3 columnas, la primera que guarda la fecha y la hora, la segunda 
 <br><br>
 
 <div align="center">
- <div style="display: inline-block;">
+ <div>
     <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/014d732f-c81c-4c78-9f78-8e6ae2e57689" alt="columnas excel" width="50%">
     <p style="text-align: center;"><em>Vista de como se arma el excel automáticamente</em></p>
  </div>
