@@ -25,12 +25,12 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
  </div>
  <br> <br>
  <div>
-    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/0d13d140-5d3a-4b63-8fc3-a20467441fc7" alt="ventana para elegir el modo" width="20%">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/0d13d140-5d3a-4b63-8fc3-a20467441fc7" alt="ventana para elegir el modo" width="30%">
     <p style="text-align: center;"><em>Ventana para elegir el modo de trabajo</em></p>
  </div>
  <br> <br>
  <div>
-    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/4bb443d2-2cea-4b45-87ae-b6d1903d27d2" alt="alerta de guardado exitoso" width="15%">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/4bb443d2-2cea-4b45-87ae-b6d1903d27d2" alt="alerta de guardado exitoso" width="20%">
     <p style="text-align: center;"><em>Alerta de guardado exitoso</em></p>
  </div>
 </div>
