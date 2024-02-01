@@ -29,7 +29,7 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
   <li>Detener: detiene el temporizador, si la ventana se cierra, cuando se vuelve a ejecutar el programa, el inicio será desde el momento que se detuvo, por lo que se seguiran computando las horas que se debe cumplir, si el programa esta en la computadora y esta se apaga, de todas maneras iniciara en el tiempo que se detuvo, el modo portable funciona del mismo modo</li>
 <p align="center">
   <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/e002e8ff-29ba-4b5f-ad6b-99e5f21c23ad" alt="boton detener" width="40%">
-    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="boton detener" width="40%">
+  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/90b7ee4a-1200-41c9-8ea4-23c0b8143d73" alt="boton detener" width="40%">
 </p>
 </ul>
 
@@ -44,3 +44,7 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 <p>Cuando se realiza el guardado de la documentación y/o escritura, una ventana emergente previa al alerta de "guardado exitoso" pregunta si esta en modo presencial o remoto. 
 Una vez realizado el guardado, si es la primera vez que se inicia el temporizador en el día, creara un excel que tendrá como nombre la FECHA. Si se pausa o detiene, o simplemente se vuelve a iniciar por mero error, y el excel del día ya se creó, solo seguirá actualizando las filas de la planilla de ese día.<br>
 El excel tiene 3 columnas, la primera que guarda la fecha y la hora, la segunda tiene el modo de trabajo que puede ser "presencial" o "remoto" y la tercera guarda la descripción de lo que ingreso en la ventana documentar. Los excel se pueden encontrar en la carpeta "bitácora" que se creo para contener los excels.</p>
+<p align="center">
+  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/014d732f-c81c-4c78-9f78-8e6ae2e57689" alt="boton detener" width="40%">
+</p>
+
