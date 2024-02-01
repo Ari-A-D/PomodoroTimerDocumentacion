@@ -1,7 +1,7 @@
 <h1>My Timer - POMODORO</h1>
 
-<p>
-  <img src="![vista](https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/fd526be7-fcb5-4ea7-ab9c-253f80746c1d)" alt="Vista principal POMODORO" width="40%">
+<p align="center">
+  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/fd526be7-fcb5-4ea7-ab9c-253f80746c1d" alt="Vista principal POMODORO" width="40%">
 </p>
 
 <h2>Resumen</h2>
