@@ -69,7 +69,12 @@ La escritura lo vuelca en un excel, que se crea con la fecha del dia y guarda ta
 Una vez realizado el guardado, si es la primera vez que se inicia el temporizador en el día, creara un excel que tendrá como nombre la FECHA. Si se pausa o detiene, o simplemente se vuelve a iniciar por mero error, y el excel del día ya se creó, solo seguirá actualizando las filas de la planilla de ese día.<br>
 El excel tiene 3 columnas, la primera que guarda la fecha y la hora, la segunda tiene el modo de trabajo que puede ser "presencial" o "remoto" y la tercera guarda la descripción de lo que ingreso en la ventana documentar. Los excel se pueden encontrar en la carpeta "bitácora" que se creo para contener los excels.</p>
 <br><br>
-<p align="center">
-  <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/014d732f-c81c-4c78-9f78-8e6ae2e57689" alt="boton detener" width="40%">
-</p>
+
+<div align="center">
+ <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/Ari-A-D/PomodoroTimerDocumentacion/assets/54744627/014d732f-c81c-4c78-9f78-8e6ae2e57689" alt="columnas excel" width="30.3%">
+    <p style="text-align: center;"><em>Vista de como se arma el excel automaticamente</em></p>
+ </div>
+</div>
+
 
